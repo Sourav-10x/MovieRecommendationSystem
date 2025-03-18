@@ -47,12 +47,12 @@
    - Recommend top N most similar movies based on cosine similarity
 
 ## How to Run
-This project runs best in *Google Colab*.
+This project runs best in *Google Colab*
 
 ### Run on Colab
 
 1. Open the notebook:  
-   [*Open in Google Colab*](https://colab.research.google.com/github/Sourav-10x/movie-recommendation-system/blob/main/Movie_Recommendation_System.ipynb)
+   [*Open in Google Colab*](https://colab.research.google.com/drive/1FS0chjIX3TxEQoIax_FvuAUPAPUyEQQx?usp=sharing)
 
 2. Upload the movies.csv file when prompted.
 
