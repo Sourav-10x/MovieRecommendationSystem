@@ -80,9 +80,4 @@ Recommended movies:
 2. Avengers: Age of Ultron
 3. Captain America: The First Avenger
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-You are free to use, modify, and distribute this project for personal or commercial purposes, provided that proper credit is given to the original author.
 ...
