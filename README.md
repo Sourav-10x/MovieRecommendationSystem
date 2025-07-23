@@ -19,7 +19,7 @@
 
 ## Dataset
 
-*Source:* movies.csv (from TMDB or similar open-source movie metadata datasets)
+*Source:* movies.csv[https://raw.githubusercontent.com/Sourav-10x/MovieRecommendationSystem/refs/heads/main/movies.csv] (from TMDB or similar open-source movie metadata datasets)
 - *Size:* 4803 movies with 24 columns of metadata
 - *Selected Features for Recommendation:*
   - genres
